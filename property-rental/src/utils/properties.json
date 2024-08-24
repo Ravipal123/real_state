@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "title": "Luxury Apartment",
+      "description": "A beautiful luxury apartment in the city center.",
+      "price": 200,
+      "image": "https://img.freepik.com/free-photo/movie-night-by-pool-whole-family_1268-31098.jpg?t=st=1722506454~exp=1722510054~hmac=eb6908d75a87f5ff9d42acc58f54ee5a44361e1147b62120fb4658566fd58bc4&w=1060",
+      "location": "City Center",
+      "bedrooms": 3,
+      "amenities": "Pool, Gym"
+    },
+    {
+      "id": 2,
+      "title": "Cozy Cottage",
+      "description": "A cozy cottage in the countryside.",
+      "price": 150,
+      "image": "https://img.freepik.com/free-psd/modern-farmhouse-meadow-hill-generative-ai_587448-2232.jpg?w=1380&t=st=1722507390~exp=1722507990~hmac=3a5f9cf43399f8427337f09b6b91fd0b52ff48e6b3b4802cf49a8f0d56b960b3",
+      "location": "Countryside",
+      "bedrooms": 2,
+      "amenities": "Garden, Fireplace"
+    },
+    {
+      "id": 3,
+      "title": "Modern Loft",
+      "description": "A stylish modern loft in the heart of the city.",
+      "price": 250,
+      "image": "https://img.freepik.com/free-photo/luxury-travel-resort-design_1409-5609.jpg?t=st=1722581501~exp=1722585101~hmac=5c8c674a7c51bb067c4ec09e59ea47a66ea01833fdce29f9941c50c5e38acb3b&w=996",
+      "location": "Downtown",
+      "bedrooms": 1,
+      "amenities": "Gym, WiFi"
+    },
+    {
+      "id": 4,
+      "title": "Beachside Bungalow",
+      "description": "A charming bungalow right by the beach.",
+      "price": 300,
+      "image": "https://img.freepik.com/free-photo/3d-rendering-wooden-house_23-2151264503.jpg?t=st=1722581059~exp=1722584659~hmac=ed6a0c922ec55bc48f7d54a269a5581a52b6e7d7ec8eda4ea21d4f3a681ecf26&w=1060",
+      "location": "Beachside",
+      "bedrooms": 2,
+      "amenities": "Beach Access, WiFi"
+    },
+    {
+      "id": 5,
+      "title": "Mountain Retreat",
+      "description": "A serene retreat in the mountains.",
+      "price": 180,
+      "image": "https://img.freepik.com/free-photo/photorealistic-wooden-house-with-timber-structure_23-2151302667.jpg?t=st=1722581584~exp=1722585184~hmac=980d331b812d0203099d6fcd1fe16070b5f186b7a09f29464f21d9d38ee65182&w=996",
+      "location": "Mountain",
+      "bedrooms": 2,
+      "amenities": "Fireplace, Hiking Trails"
+    },
+    {
+      "id": 6,
+      "title": "Urban Penthouse",
+      "description": "A luxurious penthouse with stunning city views.",
+      "price": 400,
+      "image": "https://img.freepik.com/free-photo/luxury-pool-villa-spectacular-contemporary-design-digital-art-real-estate-home-house-property-ge_1258-150749.jpg?t=st=1722581589~exp=1722585189~hmac=d3a41c56f42f11ab34f9a706708beb989f9c7b001b363de070a7f02c6f845c36&w=996",
+      "location": "City Center",
+      "bedrooms": 4,
+      "amenities": "Pool, Rooftop Garden"
+    },
+    {
+      "id": 7,
+      "title": "Suburban Family Home",
+      "description": "A spacious family home in a suburban neighborhood.",
+      "price": 220,
+      "image": "https://img.freepik.com/free-photo/3d-rendering-house-model_23-2150799723.jpg?t=st=1722581595~exp=1722585195~hmac=862044e24776cff46a791e49edbd489a55fe2d5daabde664c3c0e4e22d59a9af&w=740",
+      "location": "Suburb",
+      "bedrooms": 4,
+      "amenities": "Garden, Garage"
+    },
+    {
+      "id": 8,
+      "title": "Elegant Studio",
+      "description": "A sleek studio apartment with modern amenities.",
+      "price": 130,
+      "image": "https://img.freepik.com/free-photo/charming-yellow-house-with-wooden-windows-green-grassy-garden_181624-8074.jpg?t=st=1722581475~exp=1722585075~hmac=f95bd9c593724be924073ef89ddf347826bb0cb448ce812f12b42c2112122df4&w=996",
+      "location": "City Center",
+      "bedrooms": 1,
+      "amenities": "Gym, WiFi"
+    },
+    {
+      "id": 9,
+      "title": "Rural Farmhouse",
+      "description": "A rustic farmhouse with plenty of land.",
+      "price": 200,
+      "image": "https://img.freepik.com/free-photo/facade-modern-house_1268-24725.jpg?t=st=1722579963~exp=1722583563~hmac=87447983c4cff287c5265c836b837ed580b0fe4b16da0d0f0c9c3a9f4036b0a3&w=996",
+      "location": "Farm",
+      "bedrooms": 3,
+      "amenities": "Garden, Fireplace"
+    },
+    {
+      "id": 10,
+      "title": "City Loft",
+      "description": "A modern city loft with an open floor plan.",
+      "price": 220,
+      "image": "https://img.freepik.com/free-photo/house-isolated-field_1303-23773.jpg?t=st=1722580260~exp=1722583860~hmac=8b3fc280842ecfc9a555a9ad37273a310a8d28cda3e1180db0e87fedb8c5e91d&w=996",
+      "location": "City Center",
+      "bedrooms": 2,
+      "amenities": "WiFi, Parking"
+    }
+  ]

@@ -1,0 +1,66 @@
+.property-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .property-card {
+    /* border: 1px solid #ddd; */
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    margin: 10px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: calc(50% - 20px); /* Two items per row */
+  }
+  
+  .property-card img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .property-card h3 {
+    margin: 10px 0;
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  
+  .property-card p {
+    margin: 5px 0;
+    color: grey;
+    text-align: center;
+  }
+  
+  .property-card button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+    width: 100px; /* Adjust width as needed */
+  }
+  
+  .property-card button:hover {
+    background-color: #0056b3;
+  }
+  
+  @media (max-width: 768px) {
+    .property-card {
+      width: 100%; /* Full width for smaller screens */
+    }
+  }
+  
+  .sub{
+    font-weight: bold;
+  }
+  
+  
