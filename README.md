@@ -1,7 +1,5 @@
 # PropertyRental Project
 
-[![Build Status]([https://travis-ci.org/joemccann/dillinger.svg?branch=master])(https://travis-ci.org/joemccann/dillinger)
-
 An awesome project which help to understand the topics like Router, Hooks, APIs etc,
 
 [View Demo]((https://clockproject-4eda3.web.app/)) . [Report Bug](https://github.com/Ravipal123) . [Request Features](https://github.com/Ravipal123)
